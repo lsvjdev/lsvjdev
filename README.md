@@ -1,16 +1,15 @@
-## Hi there 👋
+# hey, i'm lsvj 👋
 
-<!--
-**LSVJ-Coding/LSVJ-Coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i mostly work on game-related tools, windows apps, discord bots and random side projects.
 
-Here are some ideas to get you started:
+### currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [GameOverlay](https://github.com/LSVJ-Coding/GameOverlay) - a lightweight performance overlay for windows
+- experimenting with ios apps and custom keyboards
+- other game tools and discord-related projects
+
+### languages & tools
+
+`c#` `java` `javascript` `swift` `git`
+
+still learning, still building stuff, still loving cars.
