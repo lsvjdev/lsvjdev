@@ -10,6 +10,6 @@ i mostly work on game-related tools, windows apps, discord bots and random side 
 
 ### languages & tools
 
-`c#` `java` `javascript` `swift` `git`
+`c-family` `java` `javascript` `swift` `git`
 
 still learning, still building stuff, still loving cars.
